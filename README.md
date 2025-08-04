@@ -44,12 +44,11 @@ Material You (Material 3) design for a seamless, modern, and visually stunning e
 
 🌍 Join the Community
 
-📢 Telegram Channel – @fitxupdates  
-💬 Discussion Group – @fitxcommunity  
-👨‍💻 Created By – @darkdevil7773
+📢 Telegram Channel – [@fitx_updates](https://telegram.me/fitx_updates)  
+👨‍💻 Created By – [@darkdevil7773](https://telegram.me/darkdevil7773)
 
 🧠 Credits & Inspiration
 
-Special thanks to @ineffabletg & @darkx_dev for UI suggestions and feature implement.
+Special thanks to [@ineffabletg](https://telegram.me/ineffabletg) & [@darkx_dev](https://telegram.me/darkx_dev) for UI suggestions and feature implement.
 
 ---
