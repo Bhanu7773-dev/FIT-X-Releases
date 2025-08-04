@@ -33,6 +33,15 @@ Connect with like-minded individuals, share achievements, and find workout partn
 Material You (Material 3) design for a seamless, modern, and visually stunning experience.
 
 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/9b5d52c5-c10a-41c4-8c39-a4e33ca3ed77)
+![Image](https://github.com/user-attachments/assets/32d897c6-d26f-4e3e-b85f-d641501e192d)
+![Image](https://github.com/user-attachments/assets/e6b746a8-d205-410b-8f8b-ff79abdbadd5)
+![Image](https://github.com/user-attachments/assets/5ed00b0f-3cfe-453c-827a-48d7468e2010)
+![Image](https://github.com/user-attachments/assets/6c8607a4-3b2d-4872-abb3-5da324a11ff7)
+![Image](https://github.com/user-attachments/assets/f7ad4e4e-0a76-4627-be92-7febd319775b)
+![Image](https://github.com/user-attachments/assets/aeecc231-23b3-4388-8a65-d7b6826f885d)
+![Image](https://github.com/user-attachments/assets/09c577b5-0ef0-4fe9-b928-8dc9bc6d1ac1)
+![Image](https://github.com/user-attachments/assets/f401af29-1937-4ac7-a79d-35eaf6ac2035)
 
 ⚙️ Built With
 
